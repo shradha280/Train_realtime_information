@@ -1,0 +1,2 @@
+# Train_realtime_information
+This is the web app using JSP and SERVLET with MVC (model view controller) it is used to fetch the information of all the train arriving in that city by just entering the city name. it helps you to get the information of the announcement(which is sometime unclear) at station about the trains like delay time, stopagges, platform no etc. I have taken the database of city jaipur. it can be extended to many cities.
